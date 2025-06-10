@@ -1,0 +1,53 @@
+Python 3.12.8 (v3.12.8:2dc476bcb91, Dec  3 2024, 14:43:19) [Clang 13.0.0 (clang-1300.0.29.30)] on darwin
+Type "help", "copyright", "credits" or "license()" for more information.
+
+============= RESTART: /Users/valeria/Documents/aula/experimento.py ============
+lista = [0] * 4
+
+# matriz 4 x 3
+
+matriz = [[0] * 3] * 4
+
+matriz
+[[0, 0, 0], [0, 0, 0], [0, 0, 0], [0, 0, 0]]
+
+lista
+[0, 0, 0, 0]
+lista[0] = 10
+lista
+[10, 0, 0, 0]
+lista[2] = 20
+lista
+[10, 0, 20, 0]
+
+matriz[1][0] = 30
+
+>>> matriz
+[[30, 0, 0], [30, 0, 0], [30, 0, 0], [30, 0, 0]]
+>>> 
+>>> 
+>>> 
+>>> 
+>>> 
+>>> 
+>>> 
+>>> 
+>>> 
+>>> 
+>>> 
+>>> 
+>>> 
+>>> 
+>>> 
+>>> matriz1 = [[0,0,0], [0,0,0], [0,0,0], [0,0,0]]
+>>> 
+>>> 
+>>> matriz1[1][0] = 30
+>>> 
+>>> matriz1
+[[0, 0, 0], [30, 0, 0], [0, 0, 0], [0, 0, 0]]
+>>> 
+==================== RESTART: /Users/valeria/Documents/aula/experimento.py ===================
+[[1, 1, 1], [1, 1, 1], [1, 1, 1], [1, 1, 1]]
+>>> 
+>>> 
